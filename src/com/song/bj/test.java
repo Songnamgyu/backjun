@@ -16,5 +16,7 @@ public class test {
         int sum = num1 + num2;
         System.out.println("두 수의 합은 : " + sum);
 
+        int minus = num1 - num2;
+        System.out.println("두 수의 차는 : " + minus);
     }
 }
